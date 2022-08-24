@@ -23,7 +23,7 @@ function Home() {
     
     <div>
         <Navbar />
-        <button onClick={{gotobackyard}}>gotobackyard</button>
+        <button onClick={gotobackyard}>gotobackyard</button>
         
         </div>
   )
